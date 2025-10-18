@@ -1,0 +1,10 @@
+crewai
+openai>=1.0.0
+python-dotenv>=1.0.0
+pyttsx3>=2.90
+schedule>=1.2.0
+Flask>=2.3.0
+protobuf<5
+packaging>=24.2.0
+tenacity<9
+langchain-core<0.2
