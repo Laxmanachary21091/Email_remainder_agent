@@ -31,16 +31,7 @@ An intelligent Email Agent built using the CrewAI framework and OpenAI LLM, desi
 ├── requirements.txt      # Dependencies
 └── README.md             # Project documentation
 
-⚙️ Installation
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/email-agent.git
-cd email-agent
 
-2️⃣ Create Virtual Environment
-python -m venv venv
-venv\Scripts\activate  # Windows
-# OR
-source venv/bin/activate  # macOS/Linux
 
 3️⃣ Install Dependencies
 pip install -r requirements.txt
